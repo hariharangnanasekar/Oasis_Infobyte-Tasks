@@ -13,3 +13,7 @@ I analyzed unemployment in India using two datasets: Unemployment in India (regi
 The task involved data cleaning, exploratory data analysis, and visualizations to identify key trends
 Check out the file for more insights
 
+## Third task - Sales Prediction using Python
+
+This task involves predicting sales using advertising data by applying various machine learning models. 
+The steps include data preprocessing, outlier detection, visualization, feature selection, train-test splitting, model training with hyperparameter tuning, and evaluation of models to identify the best one. The goal is to use the best-performing model to accurately predict sales based on advertising budgets.
